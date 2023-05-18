@@ -5,11 +5,11 @@
 <style>  
 body{  
   font-family: Calibri, Helvetica, sans-serif;  
-  background-color: pink;  
+  background-color: blue;  
 }  
 .container {  
     padding: 50px;  
-  background-color: lightblue;  
+  background-color: pink;  
 }  
   
 input[type=text], input[type=password], textarea {  
