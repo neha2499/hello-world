@@ -5,7 +5,7 @@
 <style>  
 body{  
   font-family: Calibri, Helvetica, sans-serif;  
-  background-color: red;
+  background-color: coral;
 }  
 .container {  
     padding: 50px;  
