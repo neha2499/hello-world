@@ -9,7 +9,7 @@ body{
 }  
 .container {  
     padding: 50px;  
-  background-color: pink;  
+  background-color: coral;  
 }  
   
 input[type=text], input[type=password], textarea {  
